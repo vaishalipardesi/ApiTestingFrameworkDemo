@@ -1,0 +1,26 @@
+﻿[
+  {
+    "LegacyId": "D0006",
+    "TypeId": "Depot",
+    "Key": "5662834d-1848-5a0a-943d-2109fe91378e",
+    "Name": "Thameside DC",
+    "SourceSystem": "RP2008-CPM",
+    "MessageEventType": "Update",
+    "MessageEventTimeStamp": "2024-04-02T13:28:30.26Z",
+    "Id": "663b47a12610e379d278c39e",
+    "CreatedDate": "2024-05-08T10:36:33.7166481+01:00",
+    "UpdatedDate": "2024-05-29T17:59:43.8083695+01:00"
+  },
+  {
+    "LegacyId": "D0021",
+    "TypeId": "Depot",
+    "Key": "d80cbfe8-a301-59ed-ae02-09a9b93b6aea",
+    "Name": "Belfast DC",
+    "SourceSystem": "RP2008-CPM",
+    "MessageEventType": "Update",
+    "MessageEventTimeStamp": "2024-04-02T13:28:31.26Z",
+    "Id": "663b47a12610e379d278c39f",
+    "CreatedDate": "2024-05-08T10:36:33.8887222+01:00",
+    "UpdatedDate": "2024-05-29T17:59:43.9980476+01:00"
+  }
+]

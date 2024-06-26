@@ -1,0 +1,11 @@
+{
+      "Depot": {
+        "LocationKey": "5662834d-1848-5a0a-943d-2109fe91378e",
+        "Name": "Sherburn DC123"
+      },
+      "LocationId": "D0108",
+      "LocationType": "Depot",
+      "SourceSystem": "Test Vaishali 123",
+      "MessageEventType": "Create",
+      "MessageEventTimestamp": "2024-05-09T13:31:34.437"
+}
