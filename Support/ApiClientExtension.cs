@@ -4,7 +4,6 @@ using Sainsburys.DepotManagement.Depots.Models;
 
 namespace ApiTestingFrameworkDemo.Support
 {
-
     public static class ApiClientExtension
     {
        public static async Task<string> GetFlurClientDataAsync(this FlurlClient client, string endpoint)
